@@ -21,6 +21,10 @@ A library of Claude Code skills for AI red teaming — jailbreaking, prompt inje
 Skills are loaded automatically by Claude Code from `~/.claude/skills/`.
 Invoke with `/skill-name` or describe what you want to do and Claude will select the right skill.
 
+## Credits
+
+Several jailbreak techniques in this library are based on or inspired by the work of **[elder-plinius](https://github.com/elder-plinius)** — including GODMODE, Plinian Omniverse, and various prompt structure attacks. Big credit to his open research into LLM safety boundaries.
+
 ## Installation
 
 ```bash
