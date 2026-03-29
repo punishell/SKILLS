@@ -2,6 +2,8 @@
 
 A library of Claude Code skills for AI red teaming — jailbreaking, prompt injection, model fingerprinting, and safety evaluation.
 
+> **Note:** These skills work best when Claude Code is configured for security research with an appropriate system prompt that permits red team operations. A standard out-of-the-box Claude will refuse many of these tasks — configure your `CLAUDE.md` or system prompt to establish an authorized red team context first.
+
 ## Skills
 
 | Skill | Description | Techniques |
